@@ -1,0 +1,17 @@
+MODUL 6: 
+
+Apa itu MVC? MVC (Model-View-Controller) adalah pola arsitektur yang
+memisahkan aplikasi menjadi tiga bagian: - Model: Mengelola data dan
+logika. - View: Menampilkan data ke pengguna. - Controller: Mengatur
+alur, menerima request, memanggil Model, dan menampilkan View.
+
+Manfaat MVC: - Kode lebih rapi dan terstruktur. - Tampilan (View) mudah
+diubah tanpa mengganggu logika. - Logika bisnis di Model lebih mudah
+dikelola dan diuji.
+
+Alur Request MVC: 1. Pengguna mengakses URL. 2. Router menentukan
+Controller dan Method. 3. Controller memproses dan memanggil Model. 4.
+Model mengambil atau memproses data. 5. Data dikirim ke View. 6. View
+menampilkan hasil ke browser.
+
+
